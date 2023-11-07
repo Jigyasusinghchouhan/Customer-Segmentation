@@ -6,7 +6,7 @@ This project demonstrates how to perform customer segmentation using the K-Means
 
 The business case revolves around the question: Can the customer base be grouped to develop customized relationships? We will approach this question from a behavioral perspective, considering features such as the number of products ordered, average return rate, and total spending.
 
-## Data Preparation
+## Data Preparation 
 
 The dataset contains approximately 25,000 unique customers with their order information. We will calculate three key features for each customer: 
 - Number of products ordered
