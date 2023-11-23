@@ -36,7 +36,3 @@ The overall strategy is to preserve the most favorable customer group (green), i
 
 This project demonstrates the use of unsupervised machine learning for customer segmentation. By understanding customer behavior, companies can tailor their strategies and relationships to maximize revenue and customer satisfaction.
 
-About the interview:
-The interview process for this case study was practical and realistic, allowing candidates to showcase their data science skills. Practical data science interviews like this benefit both candidates and employers.
-
-For the full article and code, please refer to the [GitHub repository](link-to-your-github-repo).
