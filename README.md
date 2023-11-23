@@ -1,4 +1,4 @@
-# Customer Segmentation Using K-Means Clustering
+# Customer Segmentation with Machine Learning
 
 This project demonstrates how to perform customer segmentation using the K-Means clustering algorithm. Customer segmentation allows a company to customize its relationships with customers based on their behavior and needs. In this case study, we will focus on the behavioral aspect of customer segmentation using an actual sales dataset from an e-commerce company.
 
